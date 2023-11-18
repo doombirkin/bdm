@@ -27,7 +27,7 @@
           "buttontext": "Aktuelle Einstellungen",
           "title1": "Einstellungen",
           "title2": "Mod-Anpassungen",
-          "text1": "Hier werden in Zukunft die <TextStyle.Red>wichtigsten<TextStyle.LightBlue> Einstellungen angezeigt.",
+          "text1": "Hier werden in Zukunft die <TextStyle.Red>wichtigsten</> Einstellungen angezeigt.",
           "text2": "Hier gibt es Anpassungen die wir an Mods vorgenommen haben."
         }
       },
